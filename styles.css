@@ -196,7 +196,7 @@ h4 {
 }
 
 h1 {
-  font-size: clamp(2.8rem, 7vw, 5.9rem);
+  font-size: clamp(2.1rem, 5vw, 4.2rem);
   max-width: 980px;
 }
 
